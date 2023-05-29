@@ -9,7 +9,7 @@ const Song = require('./models/song')
 
 
 const app = express()
-const port = 8000
+const port = process.env.PORT
 
 //connection to mongodb
 const dbURI = process.env.MONGODB_URI
