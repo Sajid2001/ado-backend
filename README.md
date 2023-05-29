@@ -1,6 +1,6 @@
 # ado-backend
 
-Backend storage for Ado songs. Used NodeJS for the server, MongoDB as the database, and Backblaze B2 to store music files on the cloud.
+Backend storage for Ado songs. Used NodeJS for the server, MongoDB as the database, and BackblazeB2 to store music files on the cloud.
 
 Frontend repo:https://github.com/Sajid2001/ado-fan-site
 
